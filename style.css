@@ -1,23 +1,27 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+
 body {
-    font-family: 'Lucida Sans', sans-serif;
     padding-left: 20px;
 }
 h1 {
     color :blue;
     font-size: 40px;
+    font-family: 'Lucida Sans', sans-serif;
 }
 h2{
     font-size: 30px;
     color:royalblue;
+    font-family: 'Courgette', cursive;
 }
 p {
     font-size: 25px;
     line-height: 1.5;
-    font-style: italic;
+    font-family: 'Courgette', cursive;
 }
 img {
     width: 700px;
     height: 500px;
     float: right;
-    padding-right: 70px;
+    padding-right: 200px;
 }
