@@ -6,6 +6,10 @@ h1 {
     color :blue;
     font-size: 40px;
 }
+h2{
+    font-size: 30px;
+    color:royalblue;
+}
 p {
     font-size: 25px;
     line-height: 1.5;
@@ -15,5 +19,5 @@ img {
     width: 700px;
     height: 500px;
     float: right;
-    padding-right: 50px;
+    padding-right: 70px;
 }
